@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Fabio Santos  
 
-💻 **Analista de Suporte e Técnico de Informática** com mais de 15 anos de experiência em TI.  
-🔧 Especialista em manutenção de computadores, configuração de dispositivos IoT e sistemas de CFTV.  
+💻 **Técnico de Informática** com mais de 15 anos de experiência em TI.  
+🔧 Especialista em manutenção de computadores, notebook e Macbook, configuração de dispositivos Móveis, IoT e sistemas de CFTV.  
 🌐 Atualmente cursando **Redes de Computadores (CST)**, ampliando minha atuação para infraestrutura e soluções corporativas.  
 
 ---
