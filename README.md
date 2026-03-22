@@ -16,6 +16,12 @@
 
 ---
 
+## 📄 Currículo em PDF
+👉 [Visualizar Currículo](Fabio-Santos-TL-Marica.pdf)  
+👉 [Baixar Currículo](Fabio-Santos-TL-Marica.pdf)
+
+---
+
 ## 🚀 Tecnologias e Áreas de Atuação
 - Suporte Técnico (Hardware & Software)  
 - Automação Residencial com Alexa / IoT  
@@ -27,4 +33,7 @@
 
 ## 📂 Projetos em Destaque
 - **[Portfólio Profissional](https://fabiofsstech.github.io/Portfolio/)** – Site pessoal com serviços e experiências  
-- [**Veste Esperança** – Plataforma de doação de roupas (projeto acadêmico/extensionista)](https://vesteesperancaofic.wixsite.com/vesteesperanca)
+- [**Veste Esperança** – Plataforma de doação de roupas (projeto acadêmico/extensionista)](https://vesteesperancaofic.wixsite.com/vesteesperanca)  
+
+---
+
