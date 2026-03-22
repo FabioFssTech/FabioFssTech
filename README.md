@@ -10,15 +10,10 @@
 ## 🌐 Conecte-se comigo
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9218--5653-green?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0007-9218-5653)  
-[![Lattes](https://img.shields.io/badge/Lattes-Currículo-blue?style=for-the-badge)](http://lattes.cnpq.br/5860970384368777)  
+[![Lattes](https://img.shields.io/badge/Lattes-Currículo-blue?style=for-the-badge&logo=academia)](http://lattes.cnpq.br/5860970384368777)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fabiofss/)  
 [![Portfólio](https://img.shields.io/badge/Portfólio-Site-lightgrey?style=for-the-badge&logo=google-chrome)](https://fabiofsstech.github.io/Portfolio/)  
-
----
-
-## 📄 Currículo em PDF
-👉 [Visualizar Currículo](Fabio-Santos-TL-Marica.pdf)  
-👉 [Baixar Currículo](Fabio-Santos-TL-Marica.pdf)
+[![Currículo Online](https://img.shields.io/badge/Currículo-Site-green?style=for-the-badge&logo=readthedocs)](https://fabiofsstech.github.io/Curriculo/)
 
 ---
 
