@@ -1,9 +1,8 @@
-# 👋 Olá, eu sou Fabio Santos  
+# 👋 Olá, eu sou Fabio Santos
 
-💻 Técnico de Informática com mais de 15 anos de experiência em TI.  
+💻 Sou Especialista em Suporte Tecnológico com mais de 15 anos de trajetória de experiência em TI.  
 🔧 Especialista em manutenção de computadores, notebooks e MacBooks, além de configuração de dispositivos móveis, IoT e sistemas de CFTV.  
-📦 Atualmente cursando Técnico em Logística, apaixonado por transformar caos em organização e integrar tecnologia ao fluxo físico.  
-🌐 Também cursando Redes de Computadores (CST), ampliando minha atuação para infraestrutura e soluções corporativas.  
+🌐 Atualmente cursando Redes de Computadores (CST), ampliando minha atuação para infraestrutura e soluções corporativas.  
 
 ---
 
@@ -22,6 +21,17 @@
 - Configuração de CFTV e cabeamento estruturado  
 - Redes de Computadores e Infraestrutura  
 - Segurança Digital e Migração de Dados  
+
+---
+
+## 🎓 Cursos e Certificações
+
+![ISC2](https://img.shields.io/badge/ISC2-Certifications-0078D4?style=for-the-badge&logo=isc2&logoColor=white)  
+![Fortinet](https://img.shields.io/badge/Fortinet-Training-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)  
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
+![IBSEC](https://img.shields.io/badge/IBSEC-Segurança%20da%20Informação-000000?style=for-the-badge)  
+![Intelbras](https://img.shields.io/badge/Intelbras-Tecnologia-00A859?style=for-the-badge)  
+![Alexa](https://img.shields.io/badge/Amazon%20Alexa-IoT-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white)
 
 ---
 
