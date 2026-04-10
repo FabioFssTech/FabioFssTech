@@ -2,7 +2,7 @@
 
 # Especialista em TI
 
-Especialista em TI com mais de **15 anos de trajetória sólida** em suporte técnico e infraestrutura.  
+Profissional em TI com mais de **15 anos de trajetória sólida** em suporte técnico e infraestrutura.  
 Atualmente, foco minha carreira em **Operações de Rede (NOC)** e **Segurança (SOC)**, unindo maturidade profissional à resolução de problemas complexos em ambientes críticos.
 
 ---
