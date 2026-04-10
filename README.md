@@ -56,12 +56,11 @@ Garantir a **continuidade operacional** e a **segurança da informação**, entr
 
 ## 🚀 Tecnologias e Áreas de Atuação
 
-- Suporte Técnico (Hardware & Software)
-- Automação Residencial com Alexa / IoT
-- Configuração de CFTV e Cabeamento Estruturado
-- Redes de Computadores e Infraestrutura
-- Segurança Digital e Migração de Dados
-- Cyber Segurança (área de interesse e estudos)
+- **Security Operations:** SIEM/XDR (Stellar Cyber), Triagem de Incidentes, Tríade CIA.
+- **Governança:** ISO/IEC 27001, Gestão de Ativos e Riscos.
+- **Redes:** TCP/IP, DNS, DHCP, VPN, Cabeamento Estruturado e Wi-Fi.
+- **Infraestrutura:** Suporte N2/N3 (Windows, macOS, Linux), Virtualização e Cloud básica.
+- **Automação & IoT:** Python Essentials, Integração Alexa e Dispositivos Inteligentes.
 
 ---
 
