@@ -19,7 +19,7 @@ Atualmente, foco minha carreira em **Operações de Rede (NOC)** e **Segurança 
 - Diagnóstico, manutenção e reparo de hardware (**Windows, macOS e Linux**)  
 - Administração de sistemas e migração de dados  
 - Configuração de ativos de rede  
-- Suporte **N2/N3**
+
 
 ---
 
