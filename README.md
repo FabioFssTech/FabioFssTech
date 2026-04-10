@@ -1,10 +1,48 @@
 # 👋 Olá, eu sou Fabio Santos
 
-💻 Sou **Especialista em Suporte Tecnológico** com mais de **15 anos de trajetória de experiência em TI**.  
-🔧 Especialista em manutenção de computadores, notebooks e **MacBooks**, além de configuração de **dispositivos móveis, IoT e sistemas de CFTV**.  
-🌐 Atualmente cursando **Redes de Computadores (CST)**, ampliando minha atuação para **infraestrutura e soluções corporativas**.
+# Especialista em TI
+
+Especialista em TI com mais de **15 anos de trajetória sólida** em suporte técnico e infraestrutura.  
+Atualmente, foco minha carreira em **Operações de Rede (NOC)** e **Segurança (SOC)**, unindo maturidade profissional à resolução de problemas complexos em ambientes críticos.
 
 ---
+
+## 🛡️ Cibersegurança & Redes
+- Graduando em Redes de Computadores (3º Período)  
+- ISC2 Candidate  
+- Certificado **ISO/IEC 27001 Associate**  
+- **Stellar Cyber SOC Analyst**  
+- Domínio em fundamentos de defesa cibernética, monitoramento de ativos e triagem de incidentes (Tríade CIA)
+
+---
+
+## 🔧 Infraestrutura & Hardware
+- Diagnóstico, manutenção e reparo de hardware (**Windows, macOS e Linux**)  
+- Administração de sistemas e migração de dados  
+- Configuração de ativos de rede  
+- Suporte **N2/N3**
+
+---
+
+## 🌐 Conectividade & Monitoramento
+- Cabeamento estruturado  
+- Redes locais (**LAN/Wi-Fi**)  
+- Soluções **IoT**  
+- Sistemas de **CFTV**  
+- Foco na integridade física e digital dos ativos tecnológicos
+
+---
+
+## 📦 Visão Estratégica & Logística
+- Formação complementar em **Logística**  
+- Diferencial em **Eficiência Operacional**  
+- Gestão de fluxos e inventário para otimização de infraestruturas tecnológicas  
+- Integração entre movimento físico e digital com inteligência
+
+---
+
+## ✨ Missão
+Garantir a **continuidade operacional** e a **segurança da informação**, entregando soluções que transformam tecnologia em **produtividade e resiliência**.
 
 ## 🌐 Conecte-se comigo
 
