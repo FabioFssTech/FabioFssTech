@@ -1,46 +1,77 @@
+
 # 👋 Olá, eu sou Fabio Santos
 
-Profissional de Tecnologia da Informação com atuação em **suporte técnico e infraestrutura**, direcionando meu desenvolvimento para as áreas de **Operações de Rede (NOC)** e **Segurança da Informação (SOC)**. Alio experiência operacional em ambientes de suporte à formação acadêmica e certificações em redes e segurança.
+Profissional de **Tecnologia da Informação** com trajetória sólida em **suporte técnico, redes e infraestrutura**, direcionando meu desenvolvimento para **Operações de Rede (NOC)** e **Segurança da Informação (SOC)**.  
+Uno experiência operacional em ambientes corporativos de alta demanda a formação acadêmica e certificações em **redes, segurança e governança**.
 
 ---
 
-## 🛡️ Cibersegurança & Redes
+## 🛡️ Segurança da Informação & Redes
 - Graduando em **Redes de Computadores (3º período)**  
 - **ISC2 Candidate**  
-- Certificação **ISO/IEC 27001 Information Security Associate**  
+- **ISO/IEC 27001 – Information Security**  
 - **Stellar Cyber SOC Analyst Associate**  
-- Conhecimentos em princípios da **Tríade CIA**, monitoramento básico de ativos e triagem inicial de incidentes  
+- Fundamentos de **SOC e Blue Team**  
+- Princípios da **Tríade CIA**, gestão básica de riscos e triagem inicial de incidentes  
 
 ---
 
-## 🔧 Infraestrutura & Hardware
-- Suporte técnico e diagnóstico de problemas em hardware  
-- Manutenção e reparo de equipamentos (**Windows e noções de Linux**)  
-- Instalação e configuração de softwares  
-- Apoio à organização e controle de ativos de TI  
-
----
-
-## 🌐 Conectividade & Monitoramento
-- Redes locais (**LAN/Wi‑Fi**)  
+## 🌐 Redes, Infraestrutura & Monitoramento
+- Redes locais (**LAN / Wi‑Fi**)  
+- Protocolos **TCP/IP, DNS e DHCP**  
 - Cabeamento estruturado  
-- Apoio a ambientes com **sistemas de CFTV**  
+- Apoio a ambientes com **monitoramento por CFTV**  
 - Registro e análise básica de eventos operacionais  
 
 ---
 
-## 📦 Organização & Processos
+## 🔧 Sistemas, Hardware & Suporte
+- Suporte técnico a usuários (presencial e remoto)  
+- Diagnóstico e manutenção de **desktops, notebooks e periféricos**  
+- Sistemas **Windows** e noções de **Linux (CLI)**  
+- Instalação, configuração e suporte a softwares corporativos  
+- Organização e controle de **ativos de TI**
+
+---
+
+## 📦 Processos, Governança & Organização
 - Formação complementar em **Logística**  
+- Apoio à padronização de processos operacionais em TI  
 - Organização de inventário e ativos tecnológicos  
-- Apoio à estruturação de processos operacionais em TI  
-- Contribuição para ambientes mais organizados e eficientes  
+- Visão orientada à **eficiência operacional, rastreabilidade e melhoria contínua**
 
 ---
 
-## ✨ Objetivo Profissional
-Atuar em ambientes corporativos aplicando boas práticas de **suporte técnico**, **redes** e **segurança da informação**, contribuindo para a **estabilidade operacional**, a **organização dos ativos de TI** e a **evolução da postura de segurança** da empresa.
+## 🎯 Objetivo Profissional
+Atuar em ambientes corporativos aplicando boas práticas de **redes**, **segurança da informação** e **governança de TI**, contribuindo para a **estabilidade operacional**, a **proteção dos ativos de informação** e a **maturidade dos processos tecnológicos**.
 
 ---
+
+## 📂 Projetos em Destaque
+- 🔗 **[Portfólio Profissional](https://fabiofsstech.github.io/Portfolio/)**  
+- 🔗 **[Veste Esperança](https://vesteesperancaofic.wixsite.com/vesteesperanca)** – Projeto acadêmico / extensionista  
+
+---
+
+## 🎓 Cursos & Certificações
+- **Stellar Cyber SOC Analyst Associate** – 2026  
+- **ISO/IEC 27001 – Information Security** – 2026  
+- **ISO/IEC 20000 – IT Service Management** – 2026  
+- **ISO 9001 – Quality Management Systems** – 2026  
+- **Certified in Cybersecurity (CC)** – ISC2 *(em preparação)*  
+- **Fortinet NSE 1** – 2026  
+- **Fortinet NSE 3** – *em andamento*  
+- **Introduction to Cybersecurity** – Cisco Networking Academy  
+
+---
+
+## 🚀 Tecnologias e Áreas de Estudo
+- **SOC:** Stellar Cyber, triagem inicial de incidentes, fundamentos de SIEM  
+- **Governança:** ISO/IEC 27001 e ISO/IEC 20000  
+- **Redes:** TCP/IP, DNS, DHCP, LAN, Wi‑Fi  
+- **Infraestrutura:** Windows, noções de Linux, suporte técnico  
+- **Ambientes Corporativos:** Microsoft 365 e gestão de ativos  
+
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiofss/)
@@ -49,24 +80,6 @@ Atuar em ambientes corporativos aplicando boas práticas de **suporte técnico**
 
 ---
 
-## 🚀 Tecnologias e Áreas de Estudo
-
-- **SOC (Fundamentos):** Stellar Cyber, triagem inicial de incidentes, Tríade CIA  
-- **Governança:** Noções de ISO/IEC 27001  
-- **Redes:** TCP/IP, DNS, DHCP, LAN, Wi‑Fi e cabeamento estruturado  
-- **Infraestrutura:** Suporte técnico (Windows e noções de Linux)  
-- **Ambientes Corporativos:** Microsoft 365 e organização de ativos  
-
----
-
-## 🎓 Cursos e Certificações
-
-- **Stellar Cyber SOC Analyst Associate** – 2026  
-- **ISO/IEC 27001 Information Security Associate** – 2026  
-- **Fortinet NSE 1** – 2026  
-- **Fortinet NSE 3** – *em andamento*  
-- **Certified in Cybersecurity (CC)** – ISC2 (*em preparação*)  
-- **Introduction to Cybersecurity** – Cisco Networking Academy  
 
 ### 📚 Plataformas e Treinamentos
 
@@ -79,8 +92,3 @@ Atuar em ambientes corporativos aplicando boas práticas de **suporte técnico**
 
 ---
 ---
-
-## 📂 Projetos em Destaque
-- **[Portfólio Profissional](https://fabiofsstech.github.io/Portfolio/)**  
-- **[Veste Esperança](https://vesteesperancaofic.wixsite.com/vesteesperanca)** – Projeto acadêmico/extensionista
-``
