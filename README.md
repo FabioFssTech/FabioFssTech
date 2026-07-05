@@ -19,7 +19,7 @@ Atualmente direciono meu foco profissional para **Operações de Rede (NOC)**, c
 ## 🌐 Redes & Infraestrutura
 - Redes locais (**LAN / Wi‑Fi**)  
 - Protocolos **TCP/IP, DNS, DHCP**  
-- Diagnóstico de conectividade  
+- Diagnóstico de conectividades  
 - Cabeamento estruturado  
 - Apoio a ambientes com **monitoramento por CFTV**  
 - Suporte à infraestrutura local e endpoints  
