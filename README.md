@@ -6,7 +6,7 @@ Atualmente direciono meu foco profissional para **Operações de Rede (NOC)**, c
 
 ---
 
-## 🖥️ Operações de Rede (NOC)
+## 🖥️ Operações de Rede 
 - Monitoramento de ambientes de TI  
 - Triagem e resposta a incidentes  
 - Troubleshooting técnico estruturado  
@@ -20,7 +20,7 @@ Atualmente direciono meu foco profissional para **Operações de Rede (NOC)**, c
 - Redes locais (**LAN / Wi‑Fi**)  
 - Protocolos **TCP/IP, DNS, DHCP**  
 - Diagnóstico de conectividades  
-- Cabeamento estruturados  
+- Cabeamento estruturados*
 - Apoio a ambientes com **monitoramento por CFTV**  
 - Suporte à infraestrutura local e endpoints  
 
