@@ -2,7 +2,7 @@
 
 Profissional de **Tecnologia da Informação** com mais de **15 anos de experiência em suporte técnico, infraestrutura e operações**, atuando em ambientes corporativos de alta demanda e impacto operacional.
 
-Atualmente direciono meu foco profissional para **Operações de Rede (NOC)**, com atuação voltada à **rotina operacional**, monitoramento, resolução de incidentes, troubleshooting técnico, documentação e cumprimento de SLA, garantindo **disponibilidade, estabilidade e continuidade dos serviços de TI**.
+Atualmente direciono meu foco profissional para **Suporte Técnico**, com atuação voltada à **rotina operacional**, monitoramento, resolução de incidentes, troubleshooting técnico, documentação e cumprimento de SLA, garantindo **disponibilidade, estabilidade e continuidade dos serviços de TI**.
 
 ---
 
@@ -54,7 +54,8 @@ Atualmente direciono meu foco profissional para **Operações de Rede (NOC)**, c
 ---
 
 ## 🎓 Formação & Estudos
-- Graduando em **Tecnologia em Redes de Computadores**  
+- Graduando em **Tecnologia em Redes de Computadores**
+- Formação em **Técnico de Informática para Internet**  
 - Formação complementar em **Logística**, agregando visão de processo e operação  
 - Estudos contínuos em cloud, redes e segurança com foco prático  
 
